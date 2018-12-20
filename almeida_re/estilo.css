@@ -1,0 +1,54 @@
+body{
+	background-color:#CCC;
+	background-image:url(img/blocos_planodefundo2.jpg);
+	background-repeat:repeat;
+	
+}
+#container{
+	margin:auto;
+	padding:8px;
+	width:920px;
+	min-height:585px;
+	background-color:#FFF;
+	box-shadow:10px 10px 8px #666;
+	
+	}
+#menu_para_logo{
+	width:920px;
+	height:120px;
+	background-color:#000;
+}
+#logo{
+	background-image:url(img/logo.png);
+	width:292px;
+	height:118px;
+	background-repeat:no-repeat;
+	float:left;
+}
+#menu_links{
+	width:620px;
+		float:right;
+		font-size:18px;
+}
+
+#menu_links a{
+	color:#FFF;
+	float:left;
+	padding:10px 50px 10px 60px;
+	text-decoration:none;
+		margin-top:80px;
+
+	
+}
+
+#menu_links a:hover{
+	
+	color:#000;
+	background-color:
+	#FFF;
+}
+#banner{
+	width:888px;
+	border:#FFF 8px;
+	height:250px;
+}
